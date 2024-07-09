@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+__pycache__/
+*.pyc
+*.sqlite3
+/venv/
+.env
+config/prod_config.py
+/media/
+/static/
+celerybeat-schedule
+!.gitkeep
